@@ -1,0 +1,18 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {},
+  "scripts": {
+    "dev": "node ./bin/server.js",
+    "test-server": "node ./bin/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2",
+    "yargs": "^17.7.2"
+  }
+}
